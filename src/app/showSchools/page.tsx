@@ -9,7 +9,7 @@ import {
   CardMedia,
   CircularProgress,
 } from '@mui/material';
-import { useRouter } from 'next/navigation'; // ✅ Correct hook for navigation
+import { useRouter } from 'next/navigation'; 
 
 type School = {
   id: number;
